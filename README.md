@@ -1,4 +1,4 @@
-# SkyRefund - airline refund system
+ airline refund system
 
 Customer, admin and finance portals for an airline. Customers register with name, email and phone, log in with a
 one-time code sent to their email, fill in a refund request form (passenger, trip, amounts in USD, reason, supporting
